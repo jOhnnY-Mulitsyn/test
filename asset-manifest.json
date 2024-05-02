@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e45bea14.css",
+    "main.js": "/static/js/main.3610b9f3.js",
+    "static/css/152.6b7690ea.chunk.css": "/static/css/152.6b7690ea.chunk.css",
+    "static/js/152.856a8114.chunk.js": "/static/js/152.856a8114.chunk.js",
+    "static/media/falcon.jpg": "/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
+    "static/media/bg.jpg": "/static/media/bg.6de2c70c268b11546c60.jpg",
+    "static/media/han-solo.mp4": "/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/dark-side.jpg": "/static/media/dark-side.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light-side.jpg": "/static/media/light-side.eebc52171cd4ac0278ca.jpg",
+    "static/media/droid.png": "/static/media/droid.8e0dfadbb90b87405c6f.png",
+    "static/media/lightsaber.png": "/static/media/lightsaber.6366448782cce3108aa9.png",
+    "static/media/space-station.png": "/static/media/space-station.80531b0460391b6ba639.png",
+    "static/media/favorite.png": "/static/media/favorite.92d8aeab5af46f5182f0.png",
+    "static/media/favorite-fill.png": "/static/media/favorite-fill.d0cbd94e0a4a62fc2bf4.png",
+    "static/media/not-found.png": "/static/media/not-found.1062f5e41ef989b5973a.png",
+    "static/media/cancel.svg": "/static/media/cancel.1d37b349388167de6bd090b5731bf27e.svg",
+    "static/media/loader-blue.svg": "/static/media/loader-blue.c65e54182b31c4a1e6d408583e7eefca.svg",
+    "static/media/loader-white.svg": "/static/media/loader-white.2f75516e36e5da9235a93ce0f74aa0a9.svg",
+    "static/media/loader-black.svg": "/static/media/loader-black.3978d4d73397202d25d4fdb5a2faa229.svg",
+    "index.html": "/index.html",
+    "main.e45bea14.css.map": "/static/css/main.e45bea14.css.map",
+    "main.3610b9f3.js.map": "/static/js/main.3610b9f3.js.map",
+    "152.6b7690ea.chunk.css.map": "/static/css/152.6b7690ea.chunk.css.map",
+    "152.856a8114.chunk.js.map": "/static/js/152.856a8114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45bea14.css",
+    "static/js/main.3610b9f3.js"
+  ]
+}
