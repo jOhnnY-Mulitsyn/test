@@ -18,12 +18,14 @@
     "redux-thunk": "^3.1.0"
   },
   "scripts": {
+    "deploy": "npm run build && npm run build-storybook && npm run build-gh-pages",
+    "build-storybook": "storybook build -o ./build/storybook",
+
     "start": "react-app-rewired start",
-    "deploy": "npm run build && npm run build-gh-pages",
     "build": "react-app-rewired build",
     "eject": "react-scripts eject",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
+
     "build-gh-pages": "gh-pages -d build"
   },
   "eslintConfig": {
