@@ -1,0 +1,74 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+    --color-lightgray: #dfe2df;
+    --color-gray: #9c9c9c;
+    --color-blue: #6a83fb;
+
+    --font-size-small: 14px;
+    --font-size-medium: 16px;
+    --font-family-main: sans-serif;
+    --font-bold: 600;
+
+    --transition: 0.4s;
+}
+
+*,
+*:after,
+*:before {
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+}
+
+.UiInput_wrapper__input__ojfEC {
+    --border-radius: 3px;
+    --border: 3px;
+    --clear-width: 35px;
+}
+.UiInput_wrapper__input__ojfEC {
+    position: relative;
+    display: inline-flex;
+}
+
+.UiInput_input__n0Yu6 {
+    min-width: 300px;
+    padding: 10px 15px;
+    padding-right: calc(var(--clear-width) + 10px);
+
+    border: var(--border) solid;
+    border-color: var(--color-lightgray);
+
+    border-radius: var(--border-radius);
+    font-size: var(--font-size-medium);
+    font-family: var(--font-family-main);
+    outline: none;
+}
+.UiInput_input__n0Yu6:focus {
+    border-color: var(--color-blue);
+}
+
+.UiInput_clear__tArPX {
+    position: absolute;
+
+    top: var(--border);
+    right: var(--border);
+    width: var(--clear-width);
+    height: calc(100% - var(--border) * 2);
+
+    padding: 10px;
+    object-fit: contain;
+    object-position: center center;
+    transition: 0.5s;
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.UiInput_clear__disabled__dQOEL {
+    opacity: 0.2;
+}
+
+
+/*# sourceMappingURL=components-UI-UiInput-UiInput-stories.ef1350e6.chunk.css.map*/
